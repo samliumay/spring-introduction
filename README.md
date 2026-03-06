@@ -2,7 +2,7 @@
 
 **InfinitumIT** staj eğitim serisi. Spring Boot ile katmanlı mimari, design pattern'ler ve best practice'ler üzerine haftalık oturumlar.
 
-**Eğitmen:** Umay Şamlı — umay.samli@infinitumit.com.tr / samliumay965@gmail.com
+**Eğitmen:** infinitumIT - Yazılım Ekibi
 
 ## Proje
 
