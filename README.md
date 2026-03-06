@@ -2,7 +2,7 @@
 
 @**InfinitumIT** staj eğitim serisi. Spring Boot ile katmanlı mimari, design pattern'ler ve best practice'ler üzerine haftalık oturumlar.
 
-**Eğitmen:** @infinitumIT - Yazılım Ekibi
+**Eğitmen:** @InfinitumIT - Yazılım Ekibi
 
 ## Proje
 
