@@ -1,8 +1,8 @@
 # Spring Boot Intern Training - Task Manager API
 
-**InfinitumIT** staj eğitim serisi. Spring Boot ile katmanlı mimari, design pattern'ler ve best practice'ler üzerine haftalık oturumlar.
+@**InfinitumIT** staj eğitim serisi. Spring Boot ile katmanlı mimari, design pattern'ler ve best practice'ler üzerine haftalık oturumlar.
 
-**Eğitmen:** infinitumIT - Yazılım Ekibi
+**Eğitmen:** @infinitumIT - Yazılım Ekibi
 
 ## Proje
 
